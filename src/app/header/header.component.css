@@ -1,0 +1,27 @@
+header {
+    height: 18mm;
+    background-color: #c9b2a5;
+}
+#header-container {
+    background-color: #282320;
+
+    height: 100%;
+    width: 99%;
+    border-radius: 0px 20px 20px 0px;
+
+    z-index: 1;
+}
+.company-title {
+    font-size: 13mm;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    padding-left: 1rem;
+    background: -webkit-linear-gradient(left ,#147a83, #31cdae, #f4daca);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.test {
+    font-size: 13mm;
+    font-family: 'Chango', cursive;
+    padding-left: .5rem;
+}
