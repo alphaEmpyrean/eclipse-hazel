@@ -1,0 +1,5 @@
+.background-logo-svg {
+    height: 83vh;
+    padding-top: calc((100vh - 83vh)/2);
+    padding-left: calc((100vw - 83vh)/2);
+}
